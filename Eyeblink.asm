@@ -1,4 +1,6 @@
-;THIS IS ir obstruction  detector
+             
+
+           ;THIS IS ir obstruction  detector
            
            ;P2.0 = BUZZ
            
@@ -269,4 +271,4 @@ SSEC:        MOV R5,#1FH
 
 
 
-;
+;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
